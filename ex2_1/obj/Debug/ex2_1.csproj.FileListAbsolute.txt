@@ -1,0 +1,7 @@
+D:\iJunior\ex2\ex2_1\ex2_1\bin\Debug\ex2_1.exe.config
+D:\iJunior\ex2\ex2_1\ex2_1\bin\Debug\ex2_1.exe
+D:\iJunior\ex2\ex2_1\ex2_1\bin\Debug\ex2_1.pdb
+D:\iJunior\ex2\ex2_1\ex2_1\obj\Debug\ex2_1.csprojAssemblyReference.cache
+D:\iJunior\ex2\ex2_1\ex2_1\obj\Debug\ex2_1.csproj.CoreCompileInputs.cache
+D:\iJunior\ex2\ex2_1\ex2_1\obj\Debug\ex2_1.exe
+D:\iJunior\ex2\ex2_1\ex2_1\obj\Debug\ex2_1.pdb
